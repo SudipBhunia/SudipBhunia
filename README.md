@@ -4,6 +4,7 @@
 **SudipBhunia/SudipBhunia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[![An image of @sudip2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudip2002)](https://holopin.io/@sudip2002)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

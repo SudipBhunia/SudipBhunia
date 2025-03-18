@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SudipBhunia](https://github.com/SudipBhunia)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/SudipBhunia)
 
 - 💬 Ask me about **Python, SQL, Pandas, Tableau, Power BI, Excel**
 
 - 📫 How to reach me **sudip.bhunia2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OucGSmqTihoEpC1qc-q3bzsiMWnqUBa7/view?usp=sharing](https://drive.google.com/file/d/1OucGSmqTihoEpC1qc-q3bzsiMWnqUBa7/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OucGSmqTihoEpC1qc-q3bzsiMWnqUBa7/view?usp=sharing)
 
 - ⚡ Fun fact **I treat real-world problems like datasets—always looking for patterns and optimizing outcomes! 😄🔍**
 

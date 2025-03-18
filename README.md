@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sudip Bhunia</h1>
 
-![An image of @sudip2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudip2002)](https://holopin.io/@sudip2002)
+![An image of @sudip2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudip2002)]
 
 <h3 align="center">I am a proactive Computer Science and Engineering student passionate about data analysis, software development, and Linux administration. With a strong foundation in Python, SQL, R, and C/C++, I specialize in data visualization, database management, and web application development. 💡 Always eager to collaborate on exciting projects and explore new technologies!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipbhunia&label=Profile%20views&color=0e75b6&style=flat" alt="sudipbhunia" /> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SudipBhunia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sudipbhunia&label=Profile%20views&color=0e75b6&style=flat" alt="sudipbhunia" /> </p>
 
 
 - 🔭 I’m currently working on **Python, SQL, Pandas, Tableau, Power BI, Excel**
@@ -32,12 +35,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SudipBhunia&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SudipBhunia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SudipBhunia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SudipBhunia&icon=0&color=0)](https://visitcount.itsvg.in)
+
 

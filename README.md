@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudip Bhunia</h1>
 
-![An image of @sudip2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudip2002)]
+![An image of @sudip2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudip2002)
 
 <h3 align="center">I am a proactive Computer Science and Engineering student passionate about data analysis, software development, and Linux administration. With a strong foundation in Python, SQL, R, and C/C++, I specialize in data visualization, database management, and web application development. 💡 Always eager to collaborate on exciting projects and explore new technologies!</h3>
 
